@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libjar/DatePicker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libjar/swing-layout-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libjar/looks-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libjar/swing-layout-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libjar/jcalendar-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
